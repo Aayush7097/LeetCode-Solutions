@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1480-running-sum-of-1d-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1920-build-array-from-permutation](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Hash Table
@@ -64,6 +65,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0238-product-of-array-except-self](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [1480-running-sum-of-1d-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 ## Matrix
 |  |
 | ------- |
