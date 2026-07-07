@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
@@ -81,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0128-longest-consecutive-sequence](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+## Math
+|  |
+| ------- |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 <!---LeetCode Topics End-->
