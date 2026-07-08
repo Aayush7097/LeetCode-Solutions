@@ -6,6 +6,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Array
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0027-remove-element) |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0049-group-anagrams](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0049-group-anagrams) |
@@ -62,6 +63,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Two Pointers
 |  |
 | ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0027-remove-element) |
 ## Prefix Sum
 |  |
