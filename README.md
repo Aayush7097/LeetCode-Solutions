@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0066-plus-one](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0128-longest-consecutive-sequence](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
@@ -73,6 +74,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0027-remove-element) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -104,5 +106,6 @@ A collection of LeetCode questions to ace the coding interview!
 ## Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0704-binary-search](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0704-binary-search) |
 <!---LeetCode Topics End-->
