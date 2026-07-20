@@ -130,4 +130,12 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0042-trapping-rain-water](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+## Backtracking
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0401-binary-watch) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0401-binary-watch](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0401-binary-watch) |
 <!---LeetCode Topics End-->
