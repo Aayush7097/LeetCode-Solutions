@@ -26,6 +26,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
+| [1095-find-in-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -118,6 +119,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [1095-find-in-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -138,4 +140,8 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0401-binary-watch](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0401-binary-watch) |
+## Interactive
+|  |
+| ------- |
+| [1095-find-in-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 <!---LeetCode Topics End-->
