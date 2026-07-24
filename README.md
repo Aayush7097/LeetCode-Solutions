@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0189-rotate-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0238-product-of-array-except-self](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0238-product-of-array-except-self) |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0283-move-zeroes) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
@@ -42,6 +43,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0128-longest-consecutive-sequence](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 ## Sorting
 |  |
@@ -49,6 +51,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0049-group-anagrams](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0217-contains-duplicate](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0217-contains-duplicate) |
 | [0242-valid-anagram](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0414-third-maximum-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
@@ -112,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview!
 | ------- |
 | [0066-plus-one](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
 ## Binary Search
 |  |
@@ -120,6 +124,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0162-find-peak-element](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0162-find-peak-element) |
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0167-two-sum-ii-input-array-is-sorted) |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0410-split-array-largest-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0704-binary-search](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
@@ -145,6 +150,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
 | [0401-binary-watch](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0401-binary-watch) |
 ## Interactive
 |  |
