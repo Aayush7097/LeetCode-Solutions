@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0704-binary-search](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
+| [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -104,11 +105,13 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
 ## Union-Find
