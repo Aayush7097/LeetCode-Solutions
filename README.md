@@ -28,6 +28,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0347-top-k-frequent-elements](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0347-top-k-frequent-elements) |
 | [0410-split-array-largest-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0414-third-maximum-number) |
+| [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0704-binary-search](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0704-binary-search) |
 | [0744-find-smallest-letter-greater-than-target](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0744-find-smallest-letter-greater-than-target) |
 | [0852-peak-index-in-a-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0852-peak-index-in-a-mountain-array) |
@@ -105,12 +106,14 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
 | [1929-concatenation-of-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1929-concatenation-of-array) |
