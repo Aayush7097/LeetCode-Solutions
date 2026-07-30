@@ -36,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0977-squares-of-a-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0977-squares-of-a-sorted-array) |
 | [1095-find-in-mountain-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1095-find-in-mountain-array) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1295-find-numbers-with-even-number-of-digits) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1480-running-sum-of-1d-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1480-running-sum-of-1d-array) |
 | [1572-matrix-diagonal-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
+| [1380-lucky-numbers-in-a-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
 | [1572-matrix-diagonal-sum](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1572-matrix-diagonal-sum) |
 | [1672-richest-customer-wealth](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1672-richest-customer-wealth) |
 ## Simulation
