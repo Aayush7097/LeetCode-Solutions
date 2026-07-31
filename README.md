@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
 | [0049-group-anagrams](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0049-group-anagrams) |
+| [0054-spiral-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0081-search-in-rotated-sorted-array-ii](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0081-search-in-rotated-sorted-array-ii) |
 | [0128-longest-consecutive-sequence](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0128-longest-consecutive-sequence) |
@@ -107,6 +108,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0054-spiral-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1380-lucky-numbers-in-a-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1380-lucky-numbers-in-a-matrix) |
@@ -115,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Simulation
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
 | [1920-build-array-from-permutation](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/1920-build-array-from-permutation) |
