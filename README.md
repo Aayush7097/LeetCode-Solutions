@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview!
 | [0034-find-first-and-last-position-of-element-in-sorted-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0034-find-first-and-last-position-of-element-in-sorted-array) |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
 | [0042-trapping-rain-water](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0042-trapping-rain-water) |
+| [0048-rotate-image](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0049-group-anagrams](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0049-group-anagrams) |
 | [0054-spiral-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0066-plus-one](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0066-plus-one) |
@@ -108,6 +109,7 @@ A collection of LeetCode questions to ace the coding interview!
 |  |
 | ------- |
 | [0036-valid-sudoku](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0036-valid-sudoku) |
+| [0048-rotate-image](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0054-spiral-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0054-spiral-matrix) |
 | [0566-reshape-the-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0566-reshape-the-matrix) |
 | [0867-transpose-matrix](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0867-transpose-matrix) |
@@ -129,6 +131,7 @@ A collection of LeetCode questions to ace the coding interview!
 ## Math
 |  |
 | ------- |
+| [0048-rotate-image](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0048-rotate-image) |
 | [0066-plus-one](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Aayush7097/LeetCode-Solutions/tree/master/0268-missing-number) |
